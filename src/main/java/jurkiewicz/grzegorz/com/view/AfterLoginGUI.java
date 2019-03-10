@@ -1,11 +1,9 @@
 package jurkiewicz.grzegorz.com.view;
 
-import jurkiewicz.grzegorz.com.Model.User;
-import jurkiewicz.grzegorz.com.repository.RegisterRepository;
+import jurkiewicz.grzegorz.com.model.User;
 
 import java.util.Scanner;
 import static jurkiewicz.grzegorz.com.view.GUI.helloScrean;
-import static jurkiewicz.grzegorz.com.view.RegisterGUI.users;
 
 
 public class AfterLoginGUI  {

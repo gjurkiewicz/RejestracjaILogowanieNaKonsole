@@ -1,7 +1,5 @@
 package jurkiewicz.grzegorz.com.view;
 
-import jurkiewicz.grzegorz.com.Model.User;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

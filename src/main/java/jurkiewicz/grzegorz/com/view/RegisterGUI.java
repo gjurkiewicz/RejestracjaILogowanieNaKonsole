@@ -1,6 +1,6 @@
 package jurkiewicz.grzegorz.com.view;
 
-import jurkiewicz.grzegorz.com.Model.User;
+import jurkiewicz.grzegorz.com.model.User;
 import jurkiewicz.grzegorz.com.repository.EmailRepository;
 import jurkiewicz.grzegorz.com.repository.PaswordGeneratorRepository;
 import jurkiewicz.grzegorz.com.repository.RegisterRepository;

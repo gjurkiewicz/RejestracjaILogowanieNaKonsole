@@ -1,8 +1,7 @@
 package jurkiewicz.grzegorz.com.view;
 
-import jurkiewicz.grzegorz.com.Model.User;
-import java.util.ArrayList;
-import java.util.List;
+import jurkiewicz.grzegorz.com.model.User;
+
 import java.util.Scanner;
 import static jurkiewicz.grzegorz.com.view.AfterLoginGUI.afterLoginScreen;
 import static jurkiewicz.grzegorz.com.view.RegisterGUI.users;

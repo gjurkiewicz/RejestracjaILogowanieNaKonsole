@@ -1,4 +1,4 @@
-package jurkiewicz.grzegorz.com.Model;
+package jurkiewicz.grzegorz.com.model;
 
 public class User {
     private String login;

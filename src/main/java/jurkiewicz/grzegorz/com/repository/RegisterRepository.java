@@ -1,6 +1,6 @@
 package jurkiewicz.grzegorz.com.repository;
 
-import jurkiewicz.grzegorz.com.Model.User;
+import jurkiewicz.grzegorz.com.model.User;
 
 import java.util.List;
 import java.util.Scanner;
