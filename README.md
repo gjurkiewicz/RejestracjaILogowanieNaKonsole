@@ -1,2 +1,2 @@
 # RejestracjaILogowanieNaKonsole
-Konsolowa aplikacja, która pozwala na logowanie i rejestracje oraz zmiane niketórych informacji o uzytkowniku po zalogowaniu.
+Konsolowa aplikacja, która pozwala na logowanie, rejestrację oraz zmianę niketórych informacji o użytkowniku po zalogowaniu.
